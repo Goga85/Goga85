@@ -1,0 +1,111 @@
+</head>
+
+<body>
+
+</body>
+</html>
+
+
+<style>
+    #container
+    {
+        margin-left: 5px;
+        margin-right:1366x768;
+    }
+    #logo
+    {
+        background-color:black;
+        color:white;
+        text-align: center; 
+        pudding: 15px 
+
+    }
+    #nav
+    {
+        float: left;
+        background-color: lightgray;
+        width: 640px
+            min-height: 640px;
+        padding: 10px;
+    }
+    #content
+    {
+        float: left;
+        padding: 20px;
+        width: 1000px;
+    }
+    #ad
+    {
+        float: left;
+        width: 160px;
+        min-height: 680px;
+        padding: 10px;
+        background-color: red;
+    }
+    #footer
+    {
+        clear: both;
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }
+</style>
+
+
+</style>
+
+</head>
+
+<body>
+
+    <div style="background-color:  yellow; height: 100px;">
+        
+    </div>
+    
+    <div id="container">
+
+        <div id="logo">
+            <h1>Najlepsi fotografowie LOW KEY - subiektywne TOP 5!</h1>
+        </div>
+
+        <div id="nav">
+            <a href="http://stevemccurry.com/galleries">Steve McCurry</a><br/>
+            Lee Jeffries<br/>
+            Phil Borges<br/>
+            Krzysztof Girałtowski<br/>
+            Tomasz Pawlak<br/>
+        </div>
+
+
+        <div id="content"> 
+            <h2> Steve Mccurry</h2>
+            Steve McCurry – znany jest najbardziej z fotografii pod nazwą „Afghan girl” wykonane w obozie uchodźców w Peshawar w Pakistanie.Zdjęcie te ukazały się nawet w National Geographic, ale jego imię i nazwisko jest mniej znane niż jego prace.Fotoreporter
+            Karierę fotoreportera McCurry rozpoczął pracując w Afganistanie podczas wojny afgańsko-sowieckiej[1], gdzie musiał pracować pod przykrywką, nosząc lokalne stroje oraz przemycać naświetlone już filmy, zaszyte w swych ubraniach. Jego fotografie z tamtego okresu były jednymi z pierwszych, jakie pojawiły się w międzynarodowych mediach, dzięki czemu między innymi były szeroko publikowane. Jego prace zostały nagrodzone złotym medalem Roberta Capy za fotoreportaż zagraniczny. Później McCurry pracował również przy wojnie iracko-irańskiej, konflikcie w Bejrucie, Kambodży, na Filipinach, podczas pierwszej wojny w Zatoce Perskiej oraz interwencji wojsk NATO w Afganistanie. Zdjęcia McCurry'ego są publikowane w magazynach na całym świecie, bardzo często współpracuje on z National Geographic. Od 1986 jest członkiem prestiżowej organizacji Magnum Photos.
+
+            Afgańska dziewczyna
+            Najbardziej znaną fotografią McCurrego jest „Afgańska dziewczyna”, przedstawiająca pierwotnie nieznaną z imienia i nazwiska młodą kobietę. McCurry wykonał to zdjęcie w 1984 roku w pakistańskim obozie uchodźców Nasir Bagh. Twarz dziewczyny stała się znana całemu światu za sprawą opublikowania jej zdjęcia na okładce National Geographic w czerwcu 1985, później fotografia była wykorzystywana przez Amnesty International w wydawanych przez tę organizację broszurach, plakatach i kalendarzach. Po 18 latach Steve McCurry, wraz z ekipą National Geographic, zidentyfikował kobietę jako Sharbat Gulę.
+            <br/><br/>
+            Pomimo że McCurry robi zdjęcia zarówno za pomocą aparatów cyfrowych, jak i analogowych, często preferuje przezrocza. Obecnie mieszka w Nowym Jorku. Poza pracą fotoreportera prowadzi weekendowe kursy fotograficzne, jak również rozszerzone dwutygodniowe kursy w Azji.
+        </div>
+
+        <div id="ad">
+            <img src="flysilesia-baner-160x600.gif"/>
+        </div>
+
+        <div id="footer">
+            Najlepsze zdjęcia low key top 5!&copy;Wszelkie prawa zastrzeżone
+        </div>
+
+    </div>
+
+</body>
+</html>
+
+
+
+
+
+
+</body>
+</html>
